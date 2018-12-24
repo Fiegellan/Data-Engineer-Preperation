@@ -1,13 +1,12 @@
 -- Table request_accepted holds the data of friend acceptance, while requester_id and accepter_id both are the id of a person.
+
+-- SCHEMA:
 -- | requester_id | accepter_id | accept_date|
 -- |--------------|-------------|------------|
--- | 1            | 2           | 2016_06-03 |
--- | 1            | 3           | 2016-06-08 |
--- | 2            | 3           | 2016-06-08 |
--- | 3            | 4           | 2016-06-09 |
+-- | 1            | 2           | 2016_06-12 |
 -- Write a query to find the the people who has most friends and the most friends number.
 
--- solution 1:
+-- Solution 1:
 SELECT a.id
 	,sum(a.counts) AS num
 FROM (
@@ -26,7 +25,7 @@ FROM (
 GROUP BY a.id
 ORDER BY num DESC limit 1
 
--- solution 2:
+-- Solution 2:
 SELECT tup.user1
 	,count(DISTINCT tup.user2) AS num_friends
 FROM (
