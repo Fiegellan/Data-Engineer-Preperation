@@ -6,6 +6,12 @@
 -- | 1            | 2           | 2016_06-12 |
 -- Write a query to find the the people who has most friends and the most friends number.
 
+
+
+-------
+-- Tags: Union All, Distinct functionality, Sum Vs Count window functionality
+-------
+
 -- Solution 1:
 SELECT a.id
 	,sum(a.counts) AS num
