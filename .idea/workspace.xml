@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="906b0ab7-ed96-45f1-b367-dc13dfc08910" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/python/youtube_mock_interviews/senior_airbnb.py" afterPath="$PROJECT_DIR$/src/main/python/youtube_mock_interviews/senior_airbnb.py" />
-    </list>
+    <list default="true" id="906b0ab7-ed96-45f1-b367-dc13dfc08910" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +11,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="senior_airbnb.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="senior_airbnb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/python/youtube_mock_interviews/senior_airbnb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="114">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_of_lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/OOP_with_python/list_of_lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flatten_list.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/python/OOP_with_python/flatten_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bash_command.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/python/OOP_with_python/bash_command.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -44,6 +72,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/python/youtube_mock_interviews/senior_airbnb.py" />
+        <option value="$PROJECT_DIR$/src/main/python/Problems/max_conversion.py" />
+        <option value="$PROJECT_DIR$/src/main/python/OOP_with_python/list_of_lists.py" />
+        <option value="$PROJECT_DIR$/src/main/python/OOP_with_python/flatten_list.py" />
       </list>
     </option>
   </component>
@@ -102,7 +133,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="youtube_mock_interviews" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP_with_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data-Engineer-Preperation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Engineer-Preperation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Problems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +166,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.senior_airbnb">
+  <component name="RunManager" selected="Python.flatten_list">
+    <configuration name="flatten_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/OOP_with_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Engineer-Preperation" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/OOP_with_python/flatten_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="list_of_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/OOP_with_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Engineer-Preperation" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/OOP_with_python/list_of_lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="max_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/python/Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Data-Engineer-Preperation" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/Problems/max_conversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="senior_airbnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,9 +235,18 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.senior_airbnb" />
+      <item index="1" class="java.lang.String" itemvalue="Python.max_conversion" />
+      <item index="2" class="java.lang.String" itemvalue="Python.list_of_lists" />
+      <item index="3" class="java.lang.String" itemvalue="Python.flatten_list" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.senior_airbnb" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.flatten_list" />
+        <item index="1" class="java.lang.String" itemvalue="Python.list_of_lists" />
+        <item index="2" class="java.lang.String" itemvalue="Python.max_conversion" />
+        <item index="3" class="java.lang.String" itemvalue="Python.senior_airbnb" />
       </list>
     </recent_temporary>
   </component>
@@ -201,8 +300,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/python/youtube_mock_interviews/senior_airbnb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/OOP_with_python/bash_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="4" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/Problems/max_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/OOP_with_python/list_of_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/python/OOP_with_python/flatten_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding />
         </state>
       </provider>
