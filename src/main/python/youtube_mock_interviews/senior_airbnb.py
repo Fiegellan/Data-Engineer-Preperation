@@ -7,6 +7,7 @@
 # solution (1,4),(2,5)
 
 def find_pairs(a,k):
+
     solution = {}
     for i in a:
         # if the value is greater than k, then clearly it won't have a solution
