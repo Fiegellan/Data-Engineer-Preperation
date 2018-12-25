@@ -38,7 +38,7 @@ class NestedIterator(object):
                 i+=1
 
 def main():
-    a = NestedIterator([[1,1],2,[1,1]])
+    a = NestedIterator([[1,1],2,[1,1],[1,2,3,4]])
     print a.hasNext()
 
 
