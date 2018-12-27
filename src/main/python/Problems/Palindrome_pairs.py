@@ -19,3 +19,6 @@ def palindrome_pairs(list):
 z = ['ii', ' ', '21']
 
 print palindrome_pairs(z)
+
+
+dictionary = {'all','and','mom'}
