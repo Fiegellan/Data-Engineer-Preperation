@@ -28,6 +28,7 @@ class V2():
         return V2(self.getX() + a.getX(), self.getY() + a.getY())
 
 v = V2(1.0,2.0)
+print v
 g = V2(2.2,3.3)
 print v.getX()
 print v.getY()
